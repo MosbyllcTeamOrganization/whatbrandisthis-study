@@ -1,0 +1,18 @@
+{
+  "name": "whatbrandisthis-study",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vue 3 前端学习演示项目 - AI品牌与Logo识别器首页 (无后端/无敏感配置)",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.1.0"
+  }
+}
